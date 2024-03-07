@@ -1,16 +1,6 @@
-# laboratorio_xd
+--El widget build de Change notifier Funciona para darle un estilo de "Notificación" a todos los metodos que 
+utilizan este widget y su respectivo estado como lo es la información basica de la aplicación como el titulo
+y los estilos que va a tener toda la app como el color predeterminado y el estilo de los botones
 
-A new Flutter project.
+los widgets de BigCard y WordPair nos ayudan para facilitar y combinar los metodos creados para la estetica de la aplicacion con estas podemos hacer que los botones o textos dentro del metodo tomen una posicion dentro de la aplicación, como tambien podemos cambiar el estilo del texto como su tamaño.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
